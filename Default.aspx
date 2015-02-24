@@ -42,8 +42,6 @@
         <asp:Label ID="lbl_results" runat="server"></asp:Label>
     
 </div>
-
-
     </div>
     
     </form>
