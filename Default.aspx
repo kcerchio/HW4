@@ -5,11 +5,15 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title></title>
+    <link rel="stylesheet" type="text/css" href="./stylesheet.css"/>
 </head>
 <body>
     <form id="form1" runat="server">
         <div id="tb_loanAmount">
     
+            <div id="nav">
+
+            
 
 
 
@@ -37,7 +41,7 @@
         <br />
         <asp:Label ID="lbl_results" runat="server"></asp:Label>
     
-
+</div>
 
 
     </div>
